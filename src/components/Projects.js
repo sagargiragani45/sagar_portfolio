@@ -19,6 +19,12 @@ const Projects = () => {
       description:
         'A modern, user-friendly weather app that delivers real-time updates and detailed forecasts, all wrapped in a sleek design.',
       technologies: ['React.js', 'Node.js', 'Weather API'],
+      links: {
+        liveDemo: '', // Add your live demo link here
+        github: '#',   // Add your GitHub link here
+      },
+
+
     },
   ];
 
